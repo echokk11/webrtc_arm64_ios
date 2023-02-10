@@ -1,7 +1,7 @@
 # Build of Webrtc for IOS
 
-casue webrtc.xcfrmaework install by pod only compile in x64, we can not run simulator in m1/m2 mac.
-and we did not want run xcode in Rosetta mode. so build it ourself.
+Casue the google webrtc.xcfrmaework install by pod only compiled in x64, we can't run simulator in m1/m2 mac,
+also we did't want run xcode in Rosetta mode. so build it ourself. hopes can help you.
 
 > simulator and arm64 for m1 mac (including m1 pro,m1 max,m2... all Mac computers with Apple silicon)
 
