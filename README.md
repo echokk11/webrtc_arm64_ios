@@ -2,6 +2,8 @@
 
 > simulator and arm64 for m1 mac (including m1 pro,m1 max,m2... all Mac computers with Apple silicon)
 
+![](Xnip2023-02-10_17-39-21.jpg)
+
 #### step 1: get tools
 ```bash
 git clone https://chromium.googlesource.com/chromium/tools/depot_tools.git
