@@ -36,7 +36,7 @@ xcodebuild -create-xcframework -framework ./src/out_ios_libs_arm64/WebRTC.xcfram
 ```
 
 #### step 4: use
-drag src/WebRTC.xcframework to xcode and start build
+drag `src/WebRTC.xcframework` to xcode and start build
 
 ## thanks
 https://github.com/pnoyelle/WebRTC_IOS
