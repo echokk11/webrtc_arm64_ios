@@ -3,6 +3,8 @@
 Casue the google webrtc.xcfrmaework install by pod only compiled in x64, we can't run simulator in m1/m2 mac,
 also we did't want run xcode in Rosetta mode. so build it ourself. hopes can help you.
 
+在使用m1,m2 mac电脑开发ios时候如果用到google的webrtc库，直接使用pod安装会运行不起来，因为他上传的库只有x64的编译，所以我们为了不在打开Rosetta的情况下使用Xcode，自己编译可以提供给arm64模拟器以及真机都可以运行的库
+
 > simulator and arm64 for m1 mac (including m1 pro,m1 max,m2... all Mac computers with Apple silicon)
 
 ![](Xnip2023-02-10_17-39-21.jpg)
